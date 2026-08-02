@@ -1,0 +1,3 @@
+c      Input values....
+      double precision gchi ,gu ,gd ,gs ,gc ,gb ,gt 
+      common /USR_PARAM/  gchi ,gu ,gd ,gs ,gc ,gb ,gt 
