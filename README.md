@@ -24,6 +24,7 @@ The primary goal is to evaluate if quantum kernel state encoding can provide an 
 ### 2. Detector Simulation (Delphes)
 - Processed the generated Monte Carlo events through **Delphes** using the **FCC-ee IDEA** detector configuration cards to simulate realistic detector responses (e.g., muon tracking, momentum smearing).
 - Reconstructed key kinematic observables such as total mass, dimuon mass, and transverse momentum.
+- Processed data can be found at: https://www.kaggle.com/datasets/sangfroid125/quantum-ml-for-particle-physics 
 
 ### 3. Classical Baseline: Boosted Decision Trees (ROOT TMVA)
 - Engineered a dataset of 16 kinematic variables to train a BDT (400 trees, depth 3).
